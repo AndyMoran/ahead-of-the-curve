@@ -7,8 +7,8 @@ Python 3.11 | Energy markets | 2026
 
 ## Findings — Notebook 02 Gate: FAILED
 
-> **The signal is not yet detectable. The project stops at Notebook 02.**  
-> This is a pre-registered outcome. The hard gate did exactly what it was designed to do.
+> **No signal detected in 2026. Revisit 2032.**   
+> The project stopped at Notebook 02. This is a pre-registered outcome.
 
 ### What was tested
 
